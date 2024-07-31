@@ -1,0 +1,5 @@
+outs:
+- md5: 41ada1efcc618ce03eee98374ed50082
+  size: 145546635
+  hash: md5
+  path: train_KMeans.csv

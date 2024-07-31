@@ -1,0 +1,20 @@
+# environment requirements
+dvc
+dvc-gdrive
+pip>=23.3.2
+pyreadstat
+scikit-learn
+altair
+vegafusion
+spacy<3.6,>=3.4.1
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl
+wordcloud
+matplotlib
+gensim
+pyLDAvis
+transformers
+torch
+imbalanced-learn
+openpyxl
+vl-convert-python>=1.3.0
+seaborn
